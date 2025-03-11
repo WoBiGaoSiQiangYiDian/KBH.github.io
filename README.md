@@ -1,3 +1,3 @@
-# KBH.github.io
+# kbh.github.io
 
 here
